@@ -1,0 +1,9 @@
+# Brawlhalla Mod Creator: releases
+
+Downloads for [Brawlhalla Mod Creator](https://brawlhallamodcreator.com), a free Windows app for recoloring Brawlhalla's maps, skins and effects and installing them as cosmetic mods.
+
+Each release has an installer and a portable zip, with the SHA-256 of each file in the release notes. The app checks this repository for updates and verifies the download before installing it.
+
+**Before you install:** the installer isn't signed, so Windows SmartScreen may warn the first time. Choose *More info*, then *Run anyway*, or check the file first with `certutil -hashfile <file> SHA256`. Using mods is at your own risk: no official policy from Ubisoft or Blue Mammoth Games permits them.
+
+A fan-made tool, not affiliated with or endorsed by Blue Mammoth Games or Ubisoft. Brawlhalla is a trademark of its owners.
